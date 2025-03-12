@@ -50,7 +50,7 @@ I'm a web developer passionate about technology and programming. I specialize in
 - **👻 سناب شات | Snapchat:** [snapchat.com/add/sultan.alasmri](https://www.snapchat.com/add/sultan.alasmri)  
 - **🎥 يوتيوب | YouTube:** [youtube.com/@SultanAlasmri](https://www.youtube.com/@SultanAlasmri)  
 - **🎵 تيك توك | TikTok:** [tiktok.com/@sultanalasmri](https://www.tiktok.com/@sultanalasmri)  
-- **📱 واتساب | WhatsApp:** [اضغط هنا للتواصل](https://api.whatsapp.com/send/?phone=00966541020102&text=github)  
+- **📱 واتساب | WhatsApp:** [اضغط هنا للتواصل](https://api.whatsapp.com/send/?phone=966541020102&text=github)  
 - **✈️ تيليجرام | Telegram:** [t.me/SultanAlasmri](https://t.me/SultanAlasmri)  
 - **🌐 جميع الحسابات | All Social Media:** [about.me/sultanalasmri](https://about.me/sultanalasmri)  
 
